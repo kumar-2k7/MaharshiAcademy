@@ -117,3 +117,14 @@ F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.pdb
 F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.csproj.CopyComplete
 F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\bin\Debug\BLL.dll
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\bin\Debug\BLL.pdb
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\bin\Debug\DAL.dll
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\bin\Debug\DAL.pdb
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\obj\Debug\BLL.Properties.Resources.resources
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\obj\Debug\BLL.dll
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\BLL\obj\Debug\BLL.pdb

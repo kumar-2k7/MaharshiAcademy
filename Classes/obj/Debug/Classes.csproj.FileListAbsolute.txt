@@ -45,3 +45,14 @@ F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\obj\Debug\Classe
 F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
 F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\obj\Debug\Classes.csproj.CopyComplete
 F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\bin\Debug\Classes.dll
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\bin\Debug\Classes.pdb
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\bin\Debug\BLL.dll
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\bin\Debug\DAL.dll
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\bin\Debug\BLL.pdb
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\bin\Debug\DAL.pdb
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\obj\Debug\Classes.csproj.CopyComplete
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\obj\Debug\Classes.dll
+F:\Repositories\repoMaharshiAcademy\branches\1.0.0.0\Classes\obj\Debug\Classes.pdb
