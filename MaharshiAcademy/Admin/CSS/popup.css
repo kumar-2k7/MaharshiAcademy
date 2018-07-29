@@ -1,0 +1,35 @@
+﻿.popupStyle
+{
+	/*display:none;*/
+	visibility:hidden;
+	/*position:absolute;
+	left:0px;
+	top:0px;*/
+	font-family:verdana;
+	font-weight:bold;
+	padding:40px;
+background-image:url(../images/honey.png);
+	/* ieWin only stuff */
+	_background-image:none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src='images/honey.png');
+
+}
+table.floatingHeader
+{
+	background-color: #0000ff;
+	color:#ffffff;
+}
+div.dimming {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	background-color: #ffffff;
+	position:absolute;
+	/*z-index:10000;*/
+	/* set z-index higher than possible */
+	/*visibility: hidden;*/
+	
+	border-style: solid;
+	border-color: #999999;
+	border-width: 1px;
+}

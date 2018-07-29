@@ -1,0 +1,9 @@
+﻿body {
+}
+.paging-div {font-size: 9px; float:right; color: rgb(128, 128, 128); margin-bottom: 10px; margin-top: 10px; line-height: 100%; font-family: tahoma; }
+.paging-div div {display:inline !important; font-size: 9px; font-weight: normal; display: inline; list-style: none; text-align: center; margin: 2px; font-family: tahoma; }
+.paging-div div span { font-size: 9px; font-weight: normal; color: #CC0000; border: 1px #CC0000 solid; padding: 3px 6px 3px 6px; font-family: tahoma; }
+.paging-div div a { font-size: 9px; font-weight: normal; color: #000000; border: 1px #CDDCED solid; padding: 3px 6px 3px 6px; font-family: tahoma; text-decoration: none; }
+.paging-div div a:hover { font-size: 9px; font-weight: normal; color: #FFFFFF; border: 1px #000000 solid; padding: 3px 6px 3px 6px; font-family: tahoma; background-color: #5F8FC5; text-decoration: none; }
+.paging-div .nav { font-size: 9px; font-weight: normal; color: #CCCCCC; border: 1px #CCCCCC solid; padding: 3px 6px 3px 6px; font-family: tahoma; }
+.pagingLabelText { font-family: tahoma; color: #000000; font-size: 11px; }

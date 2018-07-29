@@ -1,0 +1,119 @@
+D:\www\EmailMarketing\BLL\bin\Debug\BLL.dll
+D:\www\EmailMarketing\BLL\bin\Debug\BLL.pdb
+D:\www\EmailMarketing\BLL\bin\Debug\DAL.dll
+D:\www\EmailMarketing\BLL\bin\Debug\DAL.pdb
+D:\www\EmailMarketing\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\www\EmailMarketing\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\www\EmailMarketing\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+D:\www\EmailMarketing\BLL\obj\Debug\BLL.dll
+D:\www\EmailMarketing\BLL\obj\Debug\BLL.pdb
+D:\www\SampleProjects\SampleProject_CS_2008\BLL\bin\Debug\BLL.dll
+D:\www\SampleProjects\SampleProject_CS_2008\BLL\bin\Debug\BLL.pdb
+D:\www\SampleProjects\SampleProject_CS_2008\BLL\bin\Debug\DAL.dll
+D:\www\SampleProjects\SampleProject_CS_2008\BLL\bin\Debug\DAL.pdb
+D:\www\SampleProjects\SampleProject_CS_2008\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\www\SampleProjects\SampleProject_CS_2008\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\www\SampleProjects\SampleProject_CS_2008\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+D:\www\SampleProjects\SampleProject_CS_2008\BLL\obj\Debug\BLL.dll
+D:\www\SampleProjects\SampleProject_CS_2008\BLL\obj\Debug\BLL.pdb
+N:\Home data\f\Project\Urs_ClientManagement\BLL\bin\Debug\BLL.dll
+N:\Home data\f\Project\Urs_ClientManagement\BLL\bin\Debug\BLL.pdb
+N:\Home data\f\Project\Urs_ClientManagement\BLL\bin\Debug\DAL.dll
+N:\Home data\f\Project\Urs_ClientManagement\BLL\bin\Debug\DAL.pdb
+N:\Home data\f\Project\Urs_ClientManagement\BLL\obj\Debug\ResolveAssemblyReference.cache
+N:\Home data\f\Project\Urs_ClientManagement\BLL\obj\Debug\BLL.Properties.Resources.resources
+N:\Home data\f\Project\Urs_ClientManagement\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+N:\Home data\f\Project\Urs_ClientManagement\BLL\obj\Debug\BLL.dll
+N:\Home data\f\Project\Urs_ClientManagement\BLL\obj\Debug\BLL.pdb
+C:\Urs_ClientManagement\BLL\bin\Debug\BLL.dll
+C:\Urs_ClientManagement\BLL\bin\Debug\BLL.pdb
+C:\Urs_ClientManagement\BLL\bin\Debug\DAL.dll
+C:\Urs_ClientManagement\BLL\bin\Debug\DAL.pdb
+C:\Urs_ClientManagement\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Urs_ClientManagement\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Urs_ClientManagement\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Urs_ClientManagement\BLL\obj\Debug\BLL.dll
+C:\Urs_ClientManagement\BLL\obj\Debug\BLL.pdb
+D:\www\URS_ClientManagement\BLL\bin\Debug\BLL.dll
+D:\www\URS_ClientManagement\BLL\bin\Debug\BLL.pdb
+D:\www\URS_ClientManagement\BLL\bin\Debug\DAL.dll
+D:\www\URS_ClientManagement\BLL\bin\Debug\DAL.pdb
+D:\www\URS_ClientManagement\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\www\URS_ClientManagement\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\www\URS_ClientManagement\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+D:\www\URS_ClientManagement\BLL\obj\Debug\BLL.dll
+D:\www\URS_ClientManagement\BLL\obj\Debug\BLL.pdb
+D:\Training Module\URS_ClientManagement\BLL\bin\Debug\BLL.dll
+D:\Training Module\URS_ClientManagement\BLL\bin\Debug\BLL.pdb
+D:\Training Module\URS_ClientManagement\BLL\bin\Debug\DAL.dll
+D:\Training Module\URS_ClientManagement\BLL\bin\Debug\DAL.pdb
+D:\Training Module\URS_ClientManagement\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Training Module\URS_ClientManagement\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\Training Module\URS_ClientManagement\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+D:\Training Module\URS_ClientManagement\BLL\obj\Debug\BLL.dll
+D:\Training Module\URS_ClientManagement\BLL\obj\Debug\BLL.pdb
+F:\VS_2012\URSClientMgt\BLL\bin\Debug\BLL.dll
+F:\VS_2012\URSClientMgt\BLL\bin\Debug\BLL.pdb
+F:\VS_2012\URSClientMgt\BLL\bin\Debug\DAL.dll
+F:\VS_2012\URSClientMgt\BLL\bin\Debug\DAL.pdb
+F:\VS_2012\URSClientMgt\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\VS_2012\URSClientMgt\BLL\obj\Debug\BLL.Properties.Resources.resources
+F:\VS_2012\URSClientMgt\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+F:\VS_2012\URSClientMgt\BLL\obj\Debug\BLL.dll
+F:\VS_2012\URSClientMgt\BLL\obj\Debug\BLL.pdb
+E:\Saurabh\URSClientMgt\BLL\bin\Debug\BLL.dll
+E:\Saurabh\URSClientMgt\BLL\bin\Debug\BLL.pdb
+E:\Saurabh\URSClientMgt\BLL\bin\Debug\DAL.dll
+E:\Saurabh\URSClientMgt\BLL\bin\Debug\DAL.pdb
+E:\Saurabh\URSClientMgt\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Saurabh\URSClientMgt\BLL\obj\Debug\BLL.Properties.Resources.resources
+E:\Saurabh\URSClientMgt\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+E:\Saurabh\URSClientMgt\BLL\obj\Debug\BLL.dll
+E:\Saurabh\URSClientMgt\BLL\obj\Debug\BLL.pdb
+M:\WebSites\Gangdhari\BLL\bin\Debug\BLL.dll
+M:\WebSites\Gangdhari\BLL\bin\Debug\BLL.pdb
+M:\WebSites\Gangdhari\BLL\bin\Debug\DAL.dll
+M:\WebSites\Gangdhari\BLL\bin\Debug\DAL.pdb
+M:\WebSites\Gangdhari\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+M:\WebSites\Gangdhari\BLL\obj\Debug\BLL.Properties.Resources.resources
+M:\WebSites\Gangdhari\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+M:\WebSites\Gangdhari\BLL\obj\Debug\BLL.dll
+M:\WebSites\Gangdhari\BLL\obj\Debug\BLL.pdb
+H:\WebSite\Gangdhari\BLL\bin\Debug\BLL.dll
+H:\WebSite\Gangdhari\BLL\bin\Debug\BLL.pdb
+H:\WebSite\Gangdhari\BLL\bin\Debug\DAL.dll
+H:\WebSite\Gangdhari\BLL\bin\Debug\DAL.pdb
+H:\WebSite\Gangdhari\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+H:\WebSite\Gangdhari\BLL\obj\Debug\BLL.Properties.Resources.resources
+H:\WebSite\Gangdhari\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+H:\WebSite\Gangdhari\BLL\obj\Debug\BLL.dll
+H:\WebSite\Gangdhari\BLL\obj\Debug\BLL.pdb
+F:\WebSite\Gangdhari\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\WebSite\Gangdhari\BLL\obj\Debug\BLL.Properties.Resources.resources
+F:\WebSite\Gangdhari\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+F:\WebSite\Gangdhari\BLL\obj\Debug\BLL.pdb
+F:\WebSite\Gangdhari\BLL\bin\Debug\BLL.dll
+F:\WebSite\Gangdhari\BLL\bin\Debug\BLL.pdb
+F:\WebSite\Gangdhari\BLL\bin\Debug\DAL.dll
+F:\WebSite\Gangdhari\BLL\bin\Debug\DAL.pdb
+F:\WebSite\Gangdhari\BLL\obj\Debug\BLL.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\BLL\bin\Debug\BLL.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\BLL\bin\Debug\BLL.pdb
+F:\WebSite\Maharshiacademy\Asp.Net\Application\BLL\bin\Debug\DAL.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\BLL\bin\Debug\DAL.pdb
+F:\WebSite\Maharshiacademy\Asp.Net\Application\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\WebSite\Maharshiacademy\Asp.Net\Application\BLL\obj\Debug\BLL.Properties.Resources.resources
+F:\WebSite\Maharshiacademy\Asp.Net\Application\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+F:\WebSite\Maharshiacademy\Asp.Net\Application\BLL\obj\Debug\BLL.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\BLL\obj\Debug\BLL.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\bin\Debug\BLL.dll
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\bin\Debug\BLL.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\bin\Debug\DAL.dll
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\bin\Debug\DAL.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.Properties.Resources.resources
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.dll
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\BLL\obj\Debug\BLL.csprojAssemblyReference.cache

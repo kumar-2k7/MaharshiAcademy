@@ -1,0 +1,4 @@
+F:\WebSite\Gangdhari\DAL\bin\Release\DAL.dll
+F:\WebSite\Gangdhari\DAL\bin\Release\DAL.pdb
+F:\WebSite\Gangdhari\DAL\obj\Release\DAL.dll
+F:\WebSite\Gangdhari\DAL\obj\Release\DAL.pdb

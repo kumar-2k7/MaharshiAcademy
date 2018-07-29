@@ -1,0 +1,9 @@
+F:\WebSite\Gangdhari\Classes\bin\Release\Classes.dll
+F:\WebSite\Gangdhari\Classes\bin\Release\Classes.pdb
+F:\WebSite\Gangdhari\Classes\bin\Release\BLL.dll
+F:\WebSite\Gangdhari\Classes\bin\Release\DAL.dll
+F:\WebSite\Gangdhari\Classes\bin\Release\BLL.pdb
+F:\WebSite\Gangdhari\Classes\bin\Release\DAL.pdb
+F:\WebSite\Gangdhari\Classes\obj\Release\Classes.csprojResolveAssemblyReference.cache
+F:\WebSite\Gangdhari\Classes\obj\Release\Classes.dll
+F:\WebSite\Gangdhari\Classes\obj\Release\Classes.pdb

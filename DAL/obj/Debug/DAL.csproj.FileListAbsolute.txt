@@ -1,0 +1,64 @@
+D:\www\EmailMarketing\DAL\bin\Debug\DAL.dll
+D:\www\EmailMarketing\DAL\bin\Debug\DAL.pdb
+D:\www\EmailMarketing\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\www\EmailMarketing\DAL\obj\Debug\DAL.dll
+D:\www\EmailMarketing\DAL\obj\Debug\DAL.pdb
+D:\www\SampleProjects\SampleProject_CS_2008\DAL\bin\Debug\DAL.dll
+D:\www\SampleProjects\SampleProject_CS_2008\DAL\bin\Debug\DAL.pdb
+D:\www\SampleProjects\SampleProject_CS_2008\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\www\SampleProjects\SampleProject_CS_2008\DAL\obj\Debug\DAL.dll
+D:\www\SampleProjects\SampleProject_CS_2008\DAL\obj\Debug\DAL.pdb
+N:\Home data\f\Project\Urs_ClientManagement\DAL\bin\Debug\DAL.dll
+N:\Home data\f\Project\Urs_ClientManagement\DAL\bin\Debug\DAL.pdb
+N:\Home data\f\Project\Urs_ClientManagement\DAL\obj\Debug\ResolveAssemblyReference.cache
+N:\Home data\f\Project\Urs_ClientManagement\DAL\obj\Debug\DAL.dll
+N:\Home data\f\Project\Urs_ClientManagement\DAL\obj\Debug\DAL.pdb
+C:\Urs_ClientManagement\DAL\bin\Debug\DAL.dll
+C:\Urs_ClientManagement\DAL\bin\Debug\DAL.pdb
+C:\Urs_ClientManagement\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Urs_ClientManagement\DAL\obj\Debug\DAL.dll
+C:\Urs_ClientManagement\DAL\obj\Debug\DAL.pdb
+D:\www\URS_ClientManagement\DAL\bin\Debug\DAL.dll
+D:\www\URS_ClientManagement\DAL\bin\Debug\DAL.pdb
+D:\www\URS_ClientManagement\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\www\URS_ClientManagement\DAL\obj\Debug\DAL.dll
+D:\www\URS_ClientManagement\DAL\obj\Debug\DAL.pdb
+D:\Training Module\URS_ClientManagement\DAL\bin\Debug\DAL.dll
+D:\Training Module\URS_ClientManagement\DAL\bin\Debug\DAL.pdb
+D:\Training Module\URS_ClientManagement\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Training Module\URS_ClientManagement\DAL\obj\Debug\DAL.dll
+D:\Training Module\URS_ClientManagement\DAL\obj\Debug\DAL.pdb
+F:\VS_2012\URSClientMgt\DAL\bin\Debug\DAL.dll
+F:\VS_2012\URSClientMgt\DAL\bin\Debug\DAL.pdb
+F:\VS_2012\URSClientMgt\DAL\obj\Debug\DAL.dll
+F:\VS_2012\URSClientMgt\DAL\obj\Debug\DAL.pdb
+E:\Saurabh\URSClientMgt\DAL\bin\Debug\DAL.dll
+E:\Saurabh\URSClientMgt\DAL\bin\Debug\DAL.pdb
+E:\Saurabh\URSClientMgt\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Saurabh\URSClientMgt\DAL\obj\Debug\DAL.dll
+E:\Saurabh\URSClientMgt\DAL\obj\Debug\DAL.pdb
+M:\WebSites\Gangdhari\DAL\bin\Debug\DAL.dll
+M:\WebSites\Gangdhari\DAL\bin\Debug\DAL.pdb
+M:\WebSites\Gangdhari\DAL\obj\Debug\DAL.dll
+M:\WebSites\Gangdhari\DAL\obj\Debug\DAL.pdb
+M:\WebSites\Gangdhari\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\WebSite\Gangdhari\DAL\bin\Debug\DAL.dll
+H:\WebSite\Gangdhari\DAL\bin\Debug\DAL.pdb
+H:\WebSite\Gangdhari\DAL\obj\Debug\DAL.dll
+H:\WebSite\Gangdhari\DAL\obj\Debug\DAL.pdb
+F:\WebSite\Gangdhari\DAL\bin\Debug\DAL.dll
+F:\WebSite\Gangdhari\DAL\bin\Debug\DAL.pdb
+F:\WebSite\Gangdhari\DAL\obj\Debug\DAL.dll
+F:\WebSite\Gangdhari\DAL\obj\Debug\DAL.pdb
+F:\WebSite\Gangdhari\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\WebSite\Maharshiacademy\Asp.Net\Application\DAL\bin\Debug\DAL.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\DAL\bin\Debug\DAL.pdb
+F:\WebSite\Maharshiacademy\Asp.Net\Application\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\WebSite\Maharshiacademy\Asp.Net\Application\DAL\obj\Debug\DAL.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\DAL\obj\Debug\DAL.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\DAL\bin\Debug\DAL.dll
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\DAL\bin\Debug\DAL.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\DAL\obj\Debug\DAL.dll
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\DAL\obj\Debug\DAL.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

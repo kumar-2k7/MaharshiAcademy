@@ -1,0 +1,9 @@
+bin\Debug\BLL.dll
+bin\Debug\BLL.pdb
+bin\Debug\DAL.dll
+bin\Debug\DAL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BLL.Properties.Resources.resources
+obj\Debug\BLL.csproj.GenerateResource.Cache
+obj\Debug\BLL.dll
+obj\Debug\BLL.pdb

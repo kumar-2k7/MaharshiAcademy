@@ -1,0 +1,10 @@
+D:\Client\Ship-Locator.com\DAL\bin\Debug\DAL.dll
+D:\Client\Ship-Locator.com\DAL\bin\Debug\DAL.pdb
+D:\Client\Ship-Locator.com\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Client\Ship-Locator.com\DAL\obj\Debug\DAL.dll
+D:\Client\Ship-Locator.com\DAL\obj\Debug\DAL.pdb
+D:\www\EmailMarketing\DAL\bin\Debug\DAL.dll
+D:\www\EmailMarketing\DAL\bin\Debug\DAL.pdb
+D:\www\EmailMarketing\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\www\EmailMarketing\DAL\obj\Debug\DAL.dll
+D:\www\EmailMarketing\DAL\obj\Debug\DAL.pdb

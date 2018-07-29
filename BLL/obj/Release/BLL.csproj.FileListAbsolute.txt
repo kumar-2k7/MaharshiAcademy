@@ -1,0 +1,9 @@
+F:\WebSite\Gangdhari\BLL\bin\Release\BLL.dll
+F:\WebSite\Gangdhari\BLL\bin\Release\BLL.pdb
+F:\WebSite\Gangdhari\BLL\bin\Release\DAL.dll
+F:\WebSite\Gangdhari\BLL\bin\Release\DAL.pdb
+F:\WebSite\Gangdhari\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+F:\WebSite\Gangdhari\BLL\obj\Release\BLL.Properties.Resources.resources
+F:\WebSite\Gangdhari\BLL\obj\Release\BLL.csproj.GenerateResource.Cache
+F:\WebSite\Gangdhari\BLL\obj\Release\BLL.dll
+F:\WebSite\Gangdhari\BLL\obj\Release\BLL.pdb

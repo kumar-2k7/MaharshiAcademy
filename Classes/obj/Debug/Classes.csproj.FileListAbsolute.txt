@@ -1,0 +1,47 @@
+M:\WebSites\Gangdhari\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+M:\WebSites\Gangdhari\Classes\bin\Debug\Classes.dll
+M:\WebSites\Gangdhari\Classes\bin\Debug\Classes.pdb
+M:\WebSites\Gangdhari\Classes\bin\Debug\BLL.dll
+M:\WebSites\Gangdhari\Classes\bin\Debug\DAL.dll
+M:\WebSites\Gangdhari\Classes\bin\Debug\BLL.pdb
+M:\WebSites\Gangdhari\Classes\bin\Debug\DAL.pdb
+M:\WebSites\Gangdhari\Classes\obj\Debug\Classes.dll
+M:\WebSites\Gangdhari\Classes\obj\Debug\Classes.pdb
+H:\WebSite\Gangdhari\Classes\bin\Debug\Classes.dll
+H:\WebSite\Gangdhari\Classes\bin\Debug\Classes.pdb
+H:\WebSite\Gangdhari\Classes\bin\Debug\BLL.dll
+H:\WebSite\Gangdhari\Classes\bin\Debug\DAL.dll
+H:\WebSite\Gangdhari\Classes\bin\Debug\BLL.pdb
+H:\WebSite\Gangdhari\Classes\bin\Debug\DAL.pdb
+H:\WebSite\Gangdhari\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+H:\WebSite\Gangdhari\Classes\obj\Debug\Classes.dll
+H:\WebSite\Gangdhari\Classes\obj\Debug\Classes.pdb
+F:\WebSite\Gangdhari\Classes\bin\Debug\Classes.dll
+F:\WebSite\Gangdhari\Classes\bin\Debug\Classes.pdb
+F:\WebSite\Gangdhari\Classes\bin\Debug\BLL.dll
+F:\WebSite\Gangdhari\Classes\bin\Debug\DAL.dll
+F:\WebSite\Gangdhari\Classes\bin\Debug\BLL.pdb
+F:\WebSite\Gangdhari\Classes\bin\Debug\DAL.pdb
+F:\WebSite\Gangdhari\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+F:\WebSite\Gangdhari\Classes\obj\Debug\Classes.dll
+F:\WebSite\Gangdhari\Classes\obj\Debug\Classes.pdb
+F:\WebSite\Maharshiacademy\Asp.Net\Application\Classes\bin\Debug\Classes.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\Classes\bin\Debug\Classes.pdb
+F:\WebSite\Maharshiacademy\Asp.Net\Application\Classes\bin\Debug\BLL.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\Classes\bin\Debug\DAL.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\Classes\bin\Debug\BLL.pdb
+F:\WebSite\Maharshiacademy\Asp.Net\Application\Classes\bin\Debug\DAL.pdb
+F:\WebSite\Maharshiacademy\Asp.Net\Application\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+F:\WebSite\Maharshiacademy\Asp.Net\Application\Classes\obj\Debug\Classes.dll
+F:\WebSite\Maharshiacademy\Asp.Net\Application\Classes\obj\Debug\Classes.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\bin\Debug\Classes.dll
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\bin\Debug\Classes.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\bin\Debug\BLL.dll
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\bin\Debug\DAL.dll
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\bin\Debug\BLL.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\bin\Debug\DAL.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\obj\Debug\Classes.dll
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\obj\Debug\Classes.pdb
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\obj\Debug\Classes.csproj.CopyComplete
+F:\Google Drive\Extra Stuff\MaharshiAcademy\Application\Classes\obj\Debug\Classes.csprojAssemblyReference.cache

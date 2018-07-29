@@ -1,0 +1,18 @@
+﻿.txtStandardTextArea
+{
+    resize: none;
+    height: 70px;
+    width: 400px;
+    border-radius: 5px;
+}
+.txtSortOrder
+{
+    text-align: center;
+}
+.essiential_txt
+{
+    resize:none;
+    height: 70px;
+    width: 300px;
+    max-width: 250px;
+}

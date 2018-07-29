@@ -1,0 +1,36 @@
+﻿/* for dimming */
+div.dimmer 
+{
+	display: none;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:verdana;
+	font-weight:bold;
+	padding:40px;
+}
+
+
+div.dimming {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	background-color: #ffffff;
+	position:absolute;
+	/* set z-index higher than possible */
+	z-index:10000;
+	visibility: hidden;
+	
+	border-style: solid;
+	border-color: #999999;
+	border-width: 1px;
+
+}
+
+table.floatingHeader
+{
+	background-color: #0000ff;
+	color:#ffffff;
+}
+a.CloseLink{color:#ffffff; font-size:16px; text-decoration:none; font-weight:bold;}
+a.CloseLink:hover{color:#ffffff; font-size:16px; text-decoration:none; font-weight:bold;}
